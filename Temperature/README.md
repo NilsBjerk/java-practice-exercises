@@ -1,6 +1,6 @@
 ## Temperature converter
 
 ## Choose between:
-  Celcius to Farenheit
+  Celcius - Farenheit
   
-  Farenheit to Celcius
+  Farenheit - Celcius
