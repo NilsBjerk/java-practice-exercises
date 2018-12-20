@@ -1,1 +1,1 @@
-# java-practice-exercises
+# java practice exercises
